@@ -14,8 +14,8 @@ const String NAME = 'nama';
 const bool APP_ONESIGNAL_ACTIVATED = true;
 
 // -------------- URLS ---------------------------
-// const BASE_URL = 'https://dev-buskita.my.id/api/';
-const BASE_URL = 'http://101.50.0.77:8000/api/';
+// const BASE_URL = 'http://101.50.0.77:8000/api/';
+const BASE_URL = 'http://10.1.0.215:7800/69eb89df/api/';
 const LOGIN_URL = BASE_URL + 'login';
 const KENDARAAN_URL = BASE_URL + 'kendaraan';
 const KENDARAAN_BY_ID_URL = BASE_URL + 'kendaraan-by-id?id=';
